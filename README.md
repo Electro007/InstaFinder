@@ -5,7 +5,9 @@ Scrape & filter Instagram username and full name of account's follower, recursiv
 Instafinder scrape all username and full name of public account based on follower of follower of follower of follower...\
 InstaFinder use and change proxies automatically to prevent being refused requests.\
 You can then filter username and full_name with your keywords
-
+### Built with
+* [Proxy-List-Scrapper](https://github.com/narkhedesam/Proxy-List-Scrapper)
+* [Instagrapi](https://github.com/adw0rd/instagrapi)
 ## Getting Started
 
 ### Installation
